@@ -1,1 +1,1 @@
-# lista-de-exerc-cios-de-GitHub
+# lista-de-exercicios-de-GitHub
